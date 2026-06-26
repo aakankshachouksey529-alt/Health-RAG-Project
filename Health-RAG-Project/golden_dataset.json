@@ -1,0 +1,52 @@
+[
+  {
+    "question_id": "Q001",
+    "question": "What is a balanced diet?",
+    "expected_answer": "A balanced diet contains carbohydrates, proteins, fats, vitamins, minerals and water.",
+    "source_doc": "health_docs",
+    "source_page": 1,
+    "question_type": "factual",
+    "answerability": "TRUE",
+    "hallucination_risk": "LOW"
+  },
+  {
+    "question_id": "Q002",
+    "question": "Why is regular exercise important?",
+    "expected_answer": "Regular exercise improves physical fitness and reduces disease risk.",
+    "source_doc": "health_docs",
+    "source_page": 1,
+    "question_type": "factual",
+    "answerability": "TRUE",
+    "hallucination_risk": "LOW"
+  },
+  {
+    "question_id": "Q003",
+    "question": "Why should we drink clean water?",
+    "expected_answer": "Clean water prevents infections and keeps the body hydrated.",
+    "source_doc": "health_docs",
+    "source_page": 1,
+    "question_type": "factual",
+    "answerability": "TRUE",
+    "hallucination_risk": "LOW"
+  },
+  {
+    "question_id": "Q004",
+    "question": "How can diseases be prevented?",
+    "expected_answer": "Diseases can be prevented through hygiene, vaccination and healthy habits.",
+    "source_doc": "health_docs",
+    "source_page": 1,
+    "question_type": "factual",
+    "answerability": "TRUE",
+    "hallucination_risk": "LOW"
+  },
+  {
+    "question_id": "Q005",
+    "question": "Why is personal hygiene important?",
+    "expected_answer": "Personal hygiene helps prevent infections and maintain good health.",
+    "source_doc": "health_docs",
+    "source_page": 1,
+    "question_type": "factual",
+    "answerability": "TRUE",
+    "hallucination_risk": "LOW"
+  }
+]
